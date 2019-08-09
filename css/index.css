@@ -1,3 +1,11 @@
+.text-platzi{
+    color: #97c93e !important;
+}
+
+#header{
+    height: 80px;
+}
+
 #footer{
     background: rgb(28,54,67);
 }
